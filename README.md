@@ -15,6 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+https://www.loom.com/share/320baedbace648e38b9becc3adc396d6
 
 
 ## App Brainstorming
