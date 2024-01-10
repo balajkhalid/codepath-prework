@@ -15,13 +15,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-https://www.youtube.com/watch?v=GA92eKlYio4.
+
 
 ## App Brainstorming
 
 Favourite Apps & Improvement Ideas:
 
-# Instagram:
+## Instagram:
 - Chat search functionality
 - 
 
