@@ -35,4 +35,4 @@ Favourite Apps & Improvement Ideas:
 - Add a clear button as well.
 
 ### Phone
-- Option to suggest numbers as we dial specific pattern.
+- Option to suggest matching contacts based on the numbers we have dialed.
