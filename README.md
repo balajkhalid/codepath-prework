@@ -1,4 +1,4 @@
-# Codepath Prework - myfirstapp
+# Codepath Prework
 
 Submitted by: Balaj Khalid
 
